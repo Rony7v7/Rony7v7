@@ -11,12 +11,12 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Adaptable-gray"><br>
 </div>
 
-#
+<!-- # -->
 
-<div id="visitors-counter" align="center">
+<!-- <div id="visitors-counter" align="center">
   <h3 align="center"><b>👥 Visitor Counter</b></h3>
   <p align="center"><img src="https://profile-counter.glitch.me/{Rony7v7}/count.svg"/></p>
-</div>
+</div> -->
 
 #
 
